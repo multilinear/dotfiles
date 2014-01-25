@@ -1,0 +1,3 @@
+URxvt*foreground: yellow
+URxvt*background: black
+URxvt*scrollBar: False
